@@ -1,6 +1,42 @@
+!=================!================!=============!================!==================!
+
 # Connect-Group-Tech-Backend-Coding-Test
+ 
+!=================!================!=============!================!==================!
+
+# CHALLENE 1
+
+!=================!================!=============!================!==================!
+
+To See the Result of Challenge 1
+
+cd challenge1
+
+# Frontend (Challene 1)
+
+cd frontend
+
+npm install
+
+npm start
+
+result screenshot attachment is also available in the file
+
+# Backend (Challene 1)
+
+cd backend
+
+npm install
+
+npm start
+
+result screenshot attachment is also available in the file
+
+!=================!================!=============!================!==================!
 
 # CHALLENE 2
+
+!=================!================!=============!================!==================!
 
 To See the Result of Challenge 2 
 
@@ -12,7 +48,11 @@ npm run dev
 
 result screenshot attachment is also available in the file
 
+!=================!================!=============!================!==================!
+
 # CHALLENE 3
+
+!=================!================!=============!================!==================!
 
 To See the Result of Challenge 3 
 
@@ -24,7 +64,11 @@ npm start
 
 result screenshot attachment is also available in the file
 
+!=================!================!=============!================!==================!
+
 # CHALLENE 4
+
+!=================!================!=============!================!==================!
 
 To See the Result of Challenge 4 
 
