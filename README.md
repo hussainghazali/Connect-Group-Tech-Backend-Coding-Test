@@ -4,7 +4,7 @@
  
 !=================!================!=============!================!==================!
 
-# CHALLENE 1
+# CHALLENGE 1
 
 !=================!================!=============!================!==================!
 
@@ -12,7 +12,7 @@ To See the Result of Challenge 1
 
 cd challenge1
 
-# Frontend (Challene 1)
+# Frontend (Challenge 1)
 
 cd frontend
 
@@ -22,7 +22,7 @@ npm start
 
 result screenshot attachment is also available in the file
 
-# Backend (Challene 1)
+# Backend (Challege 1)
 
 cd backend
 
