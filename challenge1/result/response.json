@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Hussain Ghazali",
+            "createdAt": "2022-09-15T07:46:08.000Z",
+            "updatedAt": "2022-09-15T07:46:08.000Z",
+            "employeeId": 1,
+            "attendanceFaults": [
+                {
+                    "id": 1,
+                    "workingHours": "8 hours",
+                    "createdAt": "2022-09-15T07:46:08.000Z",
+                    "updatedAt": "2022-09-15T07:46:08.000Z",
+                    "attendanceId": 1,
+                    "employeeId": 1
+                }
+            ],
+            "attendances": [
+                {
+                    "id": 1,
+                    "available": "true",
+                    "createdAt": "2022-09-15T07:46:08.000Z",
+                    "updatedAt": "2022-09-15T07:46:08.000Z",
+                    "employeeId": 1,
+                    "scheduleId": 1
+                }
+            ],
+            "schedules": {
+                "id": 1,
+                "day": "Monday",
+                "createdAt": "2022-09-15T07:46:08.000Z",
+                "updatedAt": "2022-09-15T07:46:08.000Z"
+            }
+        }
+    ]
+}
