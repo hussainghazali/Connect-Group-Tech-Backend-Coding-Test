@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "CAREER CONSULTANTS (PVT.) LTD",
+            "createdAt": "2022-09-14T20:57:27.000Z",
+            "updatedAt": "2022-09-14T20:57:27.000Z",
+            "locations": [
+                {
+                    "id": 1,
+                    "country": "Pakistan",
+                    "createdAt": "2022-09-14T20:57:27.000Z",
+                    "updatedAt": "2022-09-14T20:57:27.000Z",
+                    "companyId": 1
+                }
+            ],
+            "assets": [
+                {
+                    "id": 2,
+                    "name": "Gold Bars",
+                    "createdAt": "2022-09-14T20:57:27.000Z",
+                    "updatedAt": "2022-09-14T20:57:27.000Z",
+                    "companyId": 1
+                },
+                {
+                    "id": 1,
+                    "name": "Stocks & Shares",
+                    "createdAt": "2022-09-14T20:57:27.000Z",
+                    "updatedAt": "2022-09-14T20:57:27.000Z",
+                    "companyId": 1
+                }
+            ],
+            "peoples": [
+                {
+                    "id": 2,
+                    "name": "Ghazali",
+                    "role": "Employee",
+                    "isCompanyGroupHead": "1",
+                    "createdAt": "2022-09-14T21:59:56.000Z",
+                    "updatedAt": "2022-09-14T21:59:56.000Z",
+                    "companyId": 1,
+                    "companyGroupId": 1
+                },
+                {
+                    "id": 1,
+                    "name": "Hussain",
+                    "role": "Manager",
+                    "isCompanyGroupHead": null,
+                    "createdAt": "2022-09-14T21:59:56.000Z",
+                    "updatedAt": "2022-09-14T21:59:56.000Z",
+                    "companyId": 1,
+                    "companyGroupId": null
+                }
+            ],
+            "companyGroups": [
+                {
+                    "id": 1,
+                    "name": "Development Group",
+                    "subGroupId": null,
+                    "createdAt": "2022-09-14T20:57:27.000Z",
+                    "updatedAt": "2022-09-14T20:57:27.000Z",
+                    "companyId": 1
+                }
+            ]
+        }
+    ]
+}
