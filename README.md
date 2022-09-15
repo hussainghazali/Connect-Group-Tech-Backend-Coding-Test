@@ -12,6 +12,18 @@ npm run dev
 
 result screenshot attachment is also available in the file
 
+# CHALLENE 3
+
+To See the Result of Challenge 3 
+
+cd challenge3
+
+npm install
+
+npm start
+
+result screenshot attachment is also available in the file
+
 # CHALLENE 4
 
 To See the Result of Challenge 4 
